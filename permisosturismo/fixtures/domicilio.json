@@ -1,0 +1,15 @@
+[
+    {
+        "model":"permisosturismo.domicilio",
+        "pk": 1,
+        "fields": {
+            "idProvincia":"42",
+            "idDepartamento":"42007",
+            "idLocalidad":"42007010000",
+            "calle":"22",
+            "nro":"125",
+            "latLocalidad":"-37.1521838816608",
+            "longLocalidad": "-64.0140550927574"
+        }
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "model":"permisosturismo.evento",
+        "pk": 1,
+        "fields": {
+            "nombre":"Parque Luro"
+        }
+    }
+]

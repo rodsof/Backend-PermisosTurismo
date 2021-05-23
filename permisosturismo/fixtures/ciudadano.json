@@ -1,0 +1,32 @@
+[
+    {
+        "model":"permisosturismo.ciudadano",
+        "idCiudadano": 1,
+        "fields": {
+            "cuil":"23412208234",
+            "nombre":"Sofia Florencia",
+            "apellido":"Rodriguez",
+            "nroDoc":"41220823",
+            "nroTramite":"00112233445",
+            "telefono":"2302457415",
+            "email": "rodriguezsofiaf@gmail.com",
+            "extranjero": "NO",
+            "sexo": "F"
+        }
+    },
+    {
+        "model":"permisosturismo.ciudadano",
+        "pk": 2,
+        "fields": {
+            "cuil":"22441442532",
+            "nombre":"Santiago Abel",
+            "apellido":"Rodriguez",
+            "nroDoc":"44144253",
+            "nroTramite":"00112233446",
+            "telefono":"2302669208",
+            "email": "rodriguezsofiaf@gmail.com",
+            "extranjero": "NO",
+            "sexo": "M"
+        }
+    }
+]
