@@ -27,7 +27,7 @@ DEBUG = True
 
 CORS_ALLOW_ALL_ORIGINS = True
 
-ALLOWED_HOSTS = ['https://permisosturismo.herokuapp.com/']
+ALLOWED_HOSTS = ['permisosturismo.herokuapp.com']
 
 
 # Application definition
