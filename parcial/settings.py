@@ -27,7 +27,7 @@ DEBUG = True
 
 CORS_ALLOW_ALL_ORIGINS = True
 
-ALLOWED_HOSTS = ['permisosturismo.herokuapp.com']
+ALLOWED_HOSTS = ['permisosturismo.herokuapp.com','127.0.0.1','frontend-permisos-turismo.vercel.app']
 
 
 # Application definition
