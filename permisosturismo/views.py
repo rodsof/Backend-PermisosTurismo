@@ -20,6 +20,8 @@ class DomicilioViewSet(viewsets.ModelViewSet):
    "A continuación se encuentra la vista para crear, modificar, obtener o borrar los domicilios registrados en el sistema"
    queryset = Domicilio.objects.all()
    serializer_class = DomicilioSerializer
+   filter_backends = [DjangoFilterBackend]
+   filterset_fields = ['idLocalidad','calle','nro','piso','depto']
  
 class PermisoViewSet(viewsets.ModelViewSet):
    "A continuación se encuentra la vista para crear, modificar, obtener o borrar los permisos registrados en el sistema"
